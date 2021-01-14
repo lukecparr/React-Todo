@@ -1,0 +1,13 @@
+p {
+	margin: .5rem;
+}
+
+.item {
+	border: black solid 1px;
+	margin: .5rem;
+	width: 50vw;
+}
+
+.completed {
+	text-decoration: line-through;
+}
