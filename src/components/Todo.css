@@ -3,7 +3,9 @@ p {
 }
 
 .item {
+	color: #282c34;
 	border: black solid 1px;
+	background-color: blanchedalmond;
 	margin: .5rem;
 	width: 50vw;
 }
